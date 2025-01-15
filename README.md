@@ -1,4 +1,4 @@
-# ContentSense: AI-Powered Content Summarization Platform
+# SummarizeAI: AI-Powered Content Summarization Platform
 
 ContentSense is a versatile content summarization tool that leverages LangChain and Groq API to generate concise, accurate summaries from YouTube videos and web pages. This tool helps users quickly grasp key information without spending time on full content consumption.
 
